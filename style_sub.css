@@ -16,7 +16,6 @@ img {
 
 .wrapper {
     max-width: 1000px;
-    /* padding: 0 40px; */
     margin: 0 auto;
     text-align: center;
 }
@@ -209,17 +208,6 @@ contact
     letter-spacing: 0.1rem;
     padding-left: 4%;
 }
-
-/* .contact-mail::after {
-    content: "";
-    width: 15px;
-    height: 15px;
-    margin: 0 20px;
-    border-top: 3px solid #fff;
-    border-right: 3px solid #fff;
-    transform: rotate(45deg);
-    display: inline-block;
-} */
 
 .contact-btn {
     color: #3E4550;
